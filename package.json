@@ -15,6 +15,9 @@
     "postcss-load-config": "^1.2.0",
     "semantic-ui-react": "^0.82.2"
   },
+  "engines": {
+    "node": "8.11.3"
+  }
   "postcss": {
     "plugins": {
       "autoprefixer": {
