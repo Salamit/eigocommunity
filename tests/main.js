@@ -1,9 +1,9 @@
 import assert from "assert";
 
-describe("mysemanticapp", function () {
+describe("eigocommunity", function () {
   it("package.json has correct name", async function () {
     const { name } = await import("../package.json");
-    assert.strictEqual(name, "mysemanticapp");
+    assert.strictEqual(name, "eigocommunity");
   });
 
   if (Meteor.isClient) {

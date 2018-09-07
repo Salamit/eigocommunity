@@ -1,5 +1,5 @@
 {
-  "name": "mysemanticapp",
+  "name": "eigocommunity",
   "private": true,
   "scripts": {
     "start": "meteor run",
@@ -17,7 +17,7 @@
   },
   "engines": {
     "node": "8.11.3"
-  }
+  },
   "postcss": {
     "plugins": {
       "autoprefixer": {
